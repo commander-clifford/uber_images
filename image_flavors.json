@@ -1,0 +1,80 @@
+[{
+  "id": "instagram",
+  "title": "Instagram",
+  "dims": {
+    "width": 1080,
+    "height": 1080
+  },
+  "typeLogo": "https://images.ctfassets.net/we2lu90gv36e/wBCfcqTrpuaMUOWIUeaUw/79d3697709cad49cffd428f86a8e72f6/insta-app-icon2.png",
+  "useOverlay": "matcha",
+  "overlay": {
+    "poke": "https://images.ctfassets.net/we2lu90gv36e/6LsscdUWmkY6IGcYc6kWIu/bc7d8a675f7ec269d631e80199730c2d/UE-BrandRefresh_SocialOverlays_Instagram_1080x1080_Poke.png",
+    "fig": "https://images.ctfassets.net/we2lu90gv36e/1kvrpEDNEUA8002cEyAU8C/26c02f813ab30f15d06b295171b9e0b0/UE-BrandRefresh_SocialOverlays_Instagram_1080x1080_Fig.png",
+    "matcha": "https://images.ctfassets.net/we2lu90gv36e/QsugMBz7c2gcSC26yM62C/429a8bb1c8a937685e8f2a9cc7dcdd11/UE-BrandRefresh_SocialOverlays_Instagram_1080x1080_Matcha.png",
+    "figMatcha": "https://images.ctfassets.net/we2lu90gv36e/2DKcaTxAG8mO6esIsKUwOE/23f62292e42f3ab4389b5d987b1004e9/UE_SocialOverlays_Instagram_1080x1080_FigMatcha.png"
+  }
+},
+{
+  "id": "facebook",
+  "title": "Facebook",
+  "dims": {
+    "width": 1200,
+    "height": 630
+  },
+  "typeLogo": "https://images.ctfassets.net/we2lu90gv36e/4km6LANbT2IcUmoqcA40cO/87cc862257d24364d6b7a67b3bfb0984/FB-f-Logo__blue_144.png",
+  "useOverlay": "matcha",
+  "overlay": {
+    "poke": "https://images.ctfassets.net/we2lu90gv36e/4iZEvQA1FYqw8yq2UIAUua/55fcb3f777f492234198872a73dbd929/UE-BrandRefresh_SocialOverlays_Facebook_1200x630_Poke.png",
+    "fig": "https://images.ctfassets.net/we2lu90gv36e/mOsQmLZ61w6k8aaaCCuu4/be5d387a1ee8ad617bf7f27f16d6ad02/UE-BrandRefresh_SocialOverlays_Facebook_1200x630_Fig.png",
+    "matcha": "https://images.ctfassets.net/we2lu90gv36e/1oxOhG0WJiYGOqewqU4M2Q/95ed1db3693134cfe59a1412c3ac88f9/UE-BrandRefresh_SocialOverlays_Facebook_1200x630_Matcha.png",
+    "figMatcha": "https://images.ctfassets.net/we2lu90gv36e/1dBs98SdWCI6gsuW08aa0Y/050e1b257d53991be6ba2ca2ca1d05ea/UE_SocialOverlays_Facebook_1200x630_FigMatcha.png"
+  }
+},
+{
+  "id": "twitter",
+  "title": "Twitter",
+  "dims": {
+    "width": 1024,
+    "height": 512
+  },
+  "typeLogo": "https://images.ctfassets.net/we2lu90gv36e/12MYqnbONYOeS28W6qmwIG/603f4f12b4ec96ffaa2f06c6fd9cc70f/Twitter_Social_Icon_Circle_Color.png",
+  "useOverlay": "matcha",
+  "overlay": {
+    "poke": "https://images.ctfassets.net/we2lu90gv36e/1ygeMgbuK4c4qCS4y4sQqu/33671e72b5898704358aed1949a3171b/UE-BrandRefresh_SocialOverlays_Twitter_1024x512_Poke.png",
+    "fig": "https://images.ctfassets.net/we2lu90gv36e/4BoOqG0ED6K8oma4WQEy4q/9f97705dcc72ce28ba0dbcf1978875ac/UE-BrandRefresh_SocialOverlays_Twitter_1024x512_Fig.png",
+    "matcha": "https://images.ctfassets.net/we2lu90gv36e/bSbOti5lZKqQ2u8oYWW2i/8721271c7ac1f1deb9c945a79c5375bd/UE-BrandRefresh_SocialOverlays_Twitter_1024x512_Matcha.png",
+    "figMatcha": "https://images.ctfassets.net/we2lu90gv36e/6Bgflvt90Am042WIYGiCmo/13294144727563bf7ed716ea8f983b75/UE_SocialOverlays_Twitter_1024x512_FigMatcha.png"
+  }
+},
+{
+  "id": "billboard",
+  "title": "Billboard",
+  "dims": {
+    "width": 960,
+    "height": 480
+  }
+},
+{
+  "id": "blog",
+  "title": "Blog",
+  "dims": {
+    "width": 960,
+    "height": 540
+  }
+},
+{
+  "id": "email",
+  "title": "e-Mail",
+  "dims": {
+    "width": 700,
+    "height": 300
+  }
+},
+{
+  "id": "helixcard",
+  "title": "Helix Card",
+  "dims": {
+    "width": 500,
+    "height": 125
+  }
+}]
